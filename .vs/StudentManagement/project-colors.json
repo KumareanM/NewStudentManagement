@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e50a9663-1ed6-4b3b-876e-020dfb6c5786": {
+      "ProjectGuid": "e50a9663-1ed6-4b3b-876e-020dfb6c5786",
+      "DisplayName": "StudentManagement",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "006d31cc-b23d-42bb-b6af-e432127c88fb": {
+      "ProjectGuid": "006d31cc-b23d-42bb-b6af-e432127c88fb",
+      "DisplayName": "StudentManagement.DLL",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

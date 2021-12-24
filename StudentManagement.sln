@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagement", "StudentManagement\StudentManagement.csproj", "{E50A9663-1ED6-4B3B-876E-020DFB6C5786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagement.DLL", "StudentManagement.DLL\StudentManagement.DLL.csproj", "{006D31CC-B23D-42BB-B6AF-E432127C88FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E50A9663-1ED6-4B3B-876E-020DFB6C5786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50A9663-1ED6-4B3B-876E-020DFB6C5786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50A9663-1ED6-4B3B-876E-020DFB6C5786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50A9663-1ED6-4B3B-876E-020DFB6C5786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{006D31CC-B23D-42BB-B6AF-E432127C88FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006D31CC-B23D-42BB-B6AF-E432127C88FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006D31CC-B23D-42BB-B6AF-E432127C88FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006D31CC-B23D-42BB-B6AF-E432127C88FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8DC8E3A-36C0-4881-A4F9-B8AB9B853EE4}
+	EndGlobalSection
+EndGlobal

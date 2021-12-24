@@ -1,0 +1,5 @@
+C:\Users\KumaresanM\source\repos\StudentManagement\StudentManagement.DLL\obj\Debug\netcoreapp3.1\StudentManagement.DLL.csproj.AssemblyReference.cache
+C:\Users\KumaresanM\source\repos\StudentManagement\StudentManagement.DLL\obj\Debug\netcoreapp3.1\StudentManagement.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KumaresanM\source\repos\StudentManagement\StudentManagement.DLL\obj\Debug\netcoreapp3.1\StudentManagement.DLL.AssemblyInfoInputs.cache
+C:\Users\KumaresanM\source\repos\StudentManagement\StudentManagement.DLL\obj\Debug\netcoreapp3.1\StudentManagement.DLL.AssemblyInfo.cs
+C:\Users\KumaresanM\source\repos\StudentManagement\StudentManagement.DLL\obj\Debug\netcoreapp3.1\StudentManagement.DLL.csproj.CoreCompileInputs.cache
